@@ -6,11 +6,11 @@ API criada para estudo da versão 3.1 do .NetCore 3.1
 - Testes de versionamento de API
 - JWT com utilização de roles e claims para validação de acesso
 
-Para a instalção será necessário ter instalado:
+Para a configuração será necessário ter instalado:
 - Visual Studio instalado, preferencialmente o 2019.
 - SDK 3.1 do Core
 
-# Instalação
+# Configuração
 
 1. Clone o projetoS
 2. Abra a solution e caso não esteja, defina o DevIO.Api como o seu "Startup Project"
