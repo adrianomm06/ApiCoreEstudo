@@ -12,7 +12,7 @@ Para a configuração será necessário ter instalado:
 
 # Configuração
 
-1. Clone o projetoS
+1. Clone o projeto
 2. Abra a solution e caso não esteja, defina o DevIO.Api como o seu "Startup Project"
 3. Criar um database localdb, o nome que eu utilizei foi "MinhaApiCore", mas pode ser utilizado outro nome, apenas
   lembrar de alterar a ConnectionString dentro do appsettings.json
@@ -38,7 +38,7 @@ O Passo 4 e 5 irão gerar as tabelas necessárias para o sistema.
     
 ``` 
 ClaimType     ClaimValue
-Fornecedor    Adicionar.Atualizar,Excluir
+Fornecedor    Adicionar,Atualizar,Excluir
 Produto       Adicionar,Atualizar,Excluir
 Endereco      Adicionar,Atualizar,Excluir
 ```
